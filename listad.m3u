@@ -4,7 +4,109 @@ http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
 #EXTINF:-1, LISTAS PRIVADAS POR IMBOX
 http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8
 
+#EXTINF:-1, hbo2 dual (eng esp)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:0,Fox 1
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20800.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,MAXPRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:-1, fox premium comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1, ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1, Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
+#EXTINF:0,FOX Life
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20808.m3u8
+
+#EXTINF:0,Fox SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20807.m3u8
+
+#EXTINF:0,FX Latino
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20813.m3u8
+
+#EXTINF:0,Golden
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20814.m3u8
+
+#EXTINF:0,Golden Premier Latino America
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20775.m3u8
+
+#EXTINF:0,HBO 2 SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20816.m3u8
+
+#EXTINF:0,HBO Family SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20817.m3u8
+
+#EXTINF:0,HBO Plus Este
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20819.m3u8
+
+#EXTINF:0,HBO Plus West
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20820.m3u8
+
+#EXTINF:0,HBO SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20818.m3u8
+
+#EXTINF:0,Telemundo
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20860.m3u8
+
+#EXTINF:0,Telemundo Los Angeles
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20862.m3u8
+
+#EXTINF:0,Tlnovelas America
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20864.m3u8
+
+#EXTINF:0,TNT America Latina
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20865.m3u8
+
+#EXTINF:0,TNT Series SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20866.m3u8
+
+#EXTINF:0,Tru TV America Latina
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20867.m3u8
+
+#EXTINF:0,TV Maná Argentina SD
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20742.m3u8
+
+#EXTINF:0,UFC Network Spanish SD
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20873.m3u8
+
+#EXTINF:0,UniMAS
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20868.m3u8
+
+#EXTINF:0,Universal Channel America Latina
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20869.m3u8
+
+#EXTINF:0,Univision Deportes HD
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20871.m3u8
+
+#EXTINF:0,Univision HD
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20872.m3u8
+
+#EXTINF:0,Warner Channel SP
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20874.m3u8
+
+#EXTINF:0,WIN Sport HD Colombia
+http://amiptv.ddns.net:25461/live/HenrySean545/38676754/20769.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nodal.am/wp-content/uploads/2016/03/telesur_logo.jpg" group-title="VENEZUELA",TeleSUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8|User-agent=iPhone
